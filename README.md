@@ -1,1 +1,2 @@
-# clone-test
+# This repo is cloned from GitHub
+
